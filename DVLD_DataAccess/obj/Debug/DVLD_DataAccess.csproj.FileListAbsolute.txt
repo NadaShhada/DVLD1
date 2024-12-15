@@ -1,6 +1,0 @@
-D:\programmingCources\19\DVLD Project Final\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
-D:\programmingCources\19\DVLD Project Final\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
-D:\programmingCources\19\DVLD Project Final\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
-D:\programmingCources\19\DVLD Project Final\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
-D:\programmingCources\19\DVLD Project Final\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
-D:\programmingCources\19\DVLD Project Final\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
