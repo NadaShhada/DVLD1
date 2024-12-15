@@ -1,0 +1,9 @@
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+D:\programmingCources\19\DVLD Project Final\Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
